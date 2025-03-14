@@ -16,12 +16,12 @@ import { getFirestore } from "firebase/firestore";
 
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyArnYGazPNTVTot34dRYOHxC6o2vVMoeqk",
-  authDomain: "skillxchange-d832b.firebaseapp.com",
-  projectId: "skillxchange-d832b",
-  storageBucket: "skillxchange-d832b.appspot.com",
-  messagingSenderId: "337114125333",
-  appId: "1:337114125333:web:a6b9d6e9e6e9e6e9e6e9e6"
+  apiKey: "YOUR_FIREBASE_API_KEY",
+  authDomain: "YOUR_AUTH_DOMAIN_ID)",
+  projectId: "YOUR_PROJECT_ID",
+  storageBucket: "YOUR_STORAGE_BUCKET_ID",
+  messagingSenderId: "YOUR_MESSAGING_ID",
+  appId: "YOUR_APP_ID"
 };
 
 // Initialize Firebase
